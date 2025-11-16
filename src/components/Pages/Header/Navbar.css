@@ -1,0 +1,12 @@
+a.active{
+    color: green;
+    text-decoration: underline;
+    /* margin-right: 5px; */
+    /* color: #E6F5EA; */
+    
+}
+a{
+    margin-right: 10px;
+    color: rgb(113, 113, 113);
+    
+}

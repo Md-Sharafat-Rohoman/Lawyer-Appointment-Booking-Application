@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7",
+    "status": "Available",
+    "experience": "12 years+ experience",
+    "name": "Dr. Ayesha Rahman",
+    "qualification": "MBBS, MD (Cardiology)",
+    "specialist": "Cardiologist",
+    "reg_no": "BD-MC-102345",
+    "consultation_fee": 800,
+    "availability": [
+      { "day": "sat", "available": true },
+      { "day": "sun", "available": true },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": true },
+      { "day": "wed", "available": true },
+      { "day": "thu", "available": false },
+      { "day": "fri", "available": false }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e",
+    "status": "Available",
+    "experience": "10 years+ experience",
+    "name": "Dr. Tanvir Ahmed",
+    "qualification": "MBBS, FCPS (Medicine)",
+    "specialist": "Medicine Specialist",
+    "reg_no": "BD-MC-102876",
+    "consultation_fee": 600,
+    "availability": [
+      { "day": "sat", "available": false },
+      { "day": "sun", "available": true },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": true },
+      { "day": "wed", "available": true },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": false }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1550831107-1553da8c8464",
+    "status": "Busy",
+    "experience": "8 years+ experience",
+    "name": "Dr. Shaila Karim",
+    "qualification": "MBBS, DGO",
+    "specialist": "Gynecologist",
+    "reg_no": "BD-MC-104567",
+    "consultation_fee": 700,
+    "availability": [
+      { "day": "sat", "available": true },
+      { "day": "sun", "available": false },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": true },
+      { "day": "wed", "available": false },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": true }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1603398938378-e54eab446dde",
+    "status": "Available",
+    "experience": "15 years+ experience",
+    "name": "Dr. Mahfuz Chowdhury",
+    "qualification": "MBBS, MS (Orthopedics)",
+    "specialist": "Orthopedic Surgeon",
+    "reg_no": "BD-MC-103221",
+    "consultation_fee": 900,
+    "availability": [
+      { "day": "sat", "available": false },
+      { "day": "sun", "available": true },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": false },
+      { "day": "wed", "available": true },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": true }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d",
+    "status": "Available",
+    "experience": "6 years+ experience",
+    "name": "Dr. Nusrat Jahan",
+    "qualification": "MBBS, BCS (Health)",
+    "specialist": "General Physician",
+    "reg_no": "BD-MC-105432",
+    "consultation_fee": 500,
+    "availability": [
+      { "day": "sat", "available": true },
+      { "day": "sun", "available": true },
+      { "day": "mon", "available": false },
+      { "day": "tue", "available": false },
+      { "day": "wed", "available": true },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": true }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2",
+    "status": "On Leave",
+    "experience": "20 years+ experience",
+    "name": "Prof. Dr. Khaled Masud",
+    "qualification": "MBBS, MD (Neurology)",
+    "specialist": "Neurologist",
+    "reg_no": "BD-MC-100987",
+    "consultation_fee": 1000,
+    "availability": [
+      { "day": "sat", "available": false },
+      { "day": "sun", "available": false },
+      { "day": "mon", "available": false },
+      { "day": "tue", "available": false },
+      { "day": "wed", "available": false },
+      { "day": "thu", "available": false },
+      { "day": "fri", "available": false }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54",
+    "status": "Available",
+    "experience": "9 years+ experience",
+    "name": "Dr. Farzana Akter",
+    "qualification": "MBBS, FCPS (Dermatology)",
+    "specialist": "Skin Specialist",
+    "reg_no": "BD-MC-106541",
+    "consultation_fee": 650,
+    "availability": [
+      { "day": "sat", "available": true },
+      { "day": "sun", "available": true },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": false },
+      { "day": "wed", "available": false },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": true }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixid=female",
+    "status": "Busy",
+    "experience": "11 years+ experience",
+    "name": "Dr. Imran Hossain",
+    "qualification": "MBBS, MD (Nephrology)",
+    "specialist": "Kidney Specialist",
+    "reg_no": "BD-MC-107654",
+    "consultation_fee": 700,
+    "availability": [
+      { "day": "sat", "available": false },
+      { "day": "sun", "available": true },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": true },
+      { "day": "wed", "available": true },
+      { "day": "thu", "available": false },
+      { "day": "fri", "available": true }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f",
+    "status": "Available",
+    "experience": "7 years+ experience",
+    "name": "Dr. Sabrina Rahim",
+    "qualification": "MBBS, MCPS",
+    "specialist": "Child Specialist",
+    "reg_no": "BD-MC-108321",
+    "consultation_fee": 500,
+    "availability": [
+      { "day": "sat", "available": true },
+      { "day": "sun", "available": false },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": false },
+      { "day": "wed", "available": true },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": true }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1584467735871-cca15f0f7bfd",
+    "status": "Available",
+    "experience": "14 years+ experience",
+    "name": "Dr. Omar Faruq",
+    "qualification": "MBBS, MS (ENT)",
+    "specialist": "ENT Specialist",
+    "reg_no": "BD-MC-101776",
+    "consultation_fee": 750,
+    "availability": [
+      { "day": "sat", "available": true },
+      { "day": "sun", "available": true },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": true },
+      { "day": "wed", "available": false },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": false }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7",
+    "status": "Busy",
+    "experience": "13 years+ experience",
+    "name": "Dr. Lamiya Siddiqua",
+    "qualification": "MBBS, MD (Gastro)",
+    "specialist": "Gastroenterologist",
+    "reg_no": "BD-MC-104998",
+    "consultation_fee": 850,
+    "availability": [
+      { "day": "sat", "available": false },
+      { "day": "sun", "available": true },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": false },
+      { "day": "wed", "available": true },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": true }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e",
+    "status": "Available",
+    "experience": "5 years+ experience",
+    "name": "Dr. Rakib Hasan",
+    "qualification": "MBBS",
+    "specialist": "Emergency Physician",
+    "reg_no": "BD-MC-109876",
+    "consultation_fee": 400,
+    "availability": [
+      { "day": "sat", "available": true },
+      { "day": "sun", "available": false },
+      { "day": "mon", "available": true },
+      { "day": "tue", "available": true },
+      { "day": "wed", "available": true },
+      { "day": "thu", "available": true },
+      { "day": "fri", "available": false }
+    ]
+  }
+]
